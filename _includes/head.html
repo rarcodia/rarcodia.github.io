@@ -52,5 +52,5 @@
   <link rel="canonical" href="{% if page.canonical %}{{ page.canonical }}{% else %}{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}{% endif %}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ site.baseurl }}/feed.xml">
 <meta name="google-site-verification" content="KmUSg4xlWS4xqHuB72d3bzKU3nwOycrPWn4fOVGGqnQ" />
-{% raw %}{% seo %}{% endraw %}
+{% seo %}
 </head>
