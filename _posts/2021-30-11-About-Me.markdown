@@ -1,0 +1,13 @@
+---
+title:  "About me"
+date:   30-11-2021 15:04:23
+#categories: [jekyll]
+#tags: [jekyll]
+---
+When I am not doing amazing and ground-breaking <a class="normal" href="/Research">research</a>, you can find me enjoying a few hobbies.
+
+I have been playing basketball since I was a kid (21 years and counting) and I also found a team here in Munich, where I currently live, that best matches my approach to basketball: when we are available to play, we must put 100% of our effort; but most importantly, when we lose we drink a case of beer, when we win.. we drink many more. This is quite important to blend into the Bavarian culture.
+
+I also really enjoy bouldering with friends, though some would say with poor results. I was given the nickname "blue lightning" at some point before Covid, which means that I was very good at doing easy/mediocre routes.
+
+I am also trying to learn to play guitar, mostly by myself and without a strict method, which is probably why I am not very good at it. But it‘s slowly improving! I have also recently started to collect and listen to records, which is where a substantial fraction of my salary is currently going.
