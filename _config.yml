@@ -1,6 +1,6 @@
 # Site settings
 title: Riccardo Arcodia
-description: 'Postdoctoral Researcher at Max-Planck Institute for Extraterrestrial Physics'
+description: 'NASA Einstein Fellow at the MIT Kavli Institute for Astrophysics and Space Research'
 url: 'http://rarcodia.github.io'
 #baseurl: '/jekyll-uno'
 # google_analytics: 'UA-XXXXXX-X'
@@ -9,7 +9,7 @@ url: 'http://rarcodia.github.io'
 
 author:
   name: 'Riccardo Arcodia'
-  email: arcodia@mpe.mpg.de
+  email: rarcodia@mit.edu
   twitter_username: ArcodiaRiccardo
   #facebook_username: joshgerdes
   github_username:  rarcodia
