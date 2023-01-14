@@ -30,7 +30,7 @@ permalink: /:title/
 markdown: kramdown
 highlighter: rouge
 
-sass:
+sass: 
     sass_dir: _sass
     style: compressed
 
