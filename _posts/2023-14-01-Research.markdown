@@ -4,6 +4,6 @@ date:   14-01-2023 14:04:23
 #categories: [jekyll]
 #tags: [jekyll]
 ---
-My research focuses on studying transient and persistent accretion events onto black holes of different masses, from X-ray and optically bright active supermassive black holes to stellar-mass black holes. I now dedicate most of my efforts to the discovery and study of new rare outliers in the family of massive accreting black holes in the nuclei of galaxies, the so-called quasi-periodic eruptions.
+My research focuses on studying transient and persistent accretion events onto black holes of different masses, from X-ray and optically bright active supermassive black holes to stellar-mass black holes, going through massive black holes in low-mass galaxies. Most of my efforts are dedicated to the discovery and study of new rare outliers in the family of accreting black holes in the nuclei of galaxies, the so-called quasi-periodic eruptions.
 
 You can find a list of refereed first-authored papers <a class="normal" target="_blank" href="https://ui.adsabs.harvard.edu/search/q=author%3A%22%5EArcodia%2C%20Riccardo%22%20property%3Arefereed&sort=date%20desc%2C%20bibcode%20desc&p_=0">here</a>, whereas a full list of publications <a class="normal" target="_blank" href="https://ui.adsabs.harvard.edu/search/p_=0&q=%20author%3A%22Arcodia%2C%20Riccardo%22%20%20&sort=date%20desc%2C%20bibcode%20desc">here</a>.
