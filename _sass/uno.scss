@@ -1165,6 +1165,7 @@ hr {
 	box-shadow: none; }
 
 .post img {
+    object-fit: scale-down;
 	max-width: 100%;
 	margin: 0 auto;
 	border-radius: 3px;
