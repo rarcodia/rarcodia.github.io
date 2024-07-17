@@ -1,0 +1,34 @@
+---
+title:  "The disk-corona interplay"
+date:   15-07-2024 14:04:23
+#categories: [jekyll]
+#tags: [jekyll]
+---
+
+The most luminous phenomena in the Universe are somewhat related to accretion onto black holes. This is a multi-scale phenomenon that goes from the black hole event horizon to much larger distances, up to galaxies outskirts for super-massive black holes sitting at their centres. Accretion of mass onto black holes is also what allows them to grow over cosmic time. However, an in-depth understanding of all the related observed properties is far from being reached. During my PhD at MPE, I have tackled some of the open questions related to black hole accretion both in bright active supermassive black holes and stellar-mass black holes.
+
+<h3>In broad-line radiatively-efficient AGN</h3>
+
+As first PhD project (<a class="normal" target="_blank" href="https://ui.adsabs.harvard.edu/abs/2019A%26A...628A.135A/abstract">Arcodia et al., 2019</a>), I have studied a well-know observed correlation between monochromatic X-ray and UV luminosities (so-called alpha-OX) in AGN, which is a proxy for the accretion disk and X-ray corona emission. In particular, focusing on radiatively-efficient AGN, i.e. the ones that radiate from a few percent to tenths of the Eddington limit. This relation carries important physical insights since it states that for increasingly luminous AGN the coronal emission increases less than the disk emission. In the figure below, which shows this relation for our AGN sample, this is shown by the slope being smaller than one in loglog scale.
+
+<figure>    
+<img src="/images/lxluv.png" alt="Lx-Luv relation; Arcodia et al., (2019)" style="width:500px;height:360px" loading="lazy" fetchpriority="high">
+</figure>
+
+However, this relation still lacks a clear theoretical explanation despite being used for many applications over the last few decades. I have adopted a self-consistently coupled disk-corona model and obtained that our model can broadly predict the observed relation, i.e. the observed X-ray and optical-UV luminosities, provided the population of observed AGN is preferentially highly spinning. This is extremely important since high incidence of highly-spinning sources significantly impacts the growth of black holes over cosmic time, as spin makes black holes more efficient accretors and it also impacts the co-evolution between black holes and the galaxies they reside in, since high spins are key to efficiently launch collimated outflows up to galaxy scales. The following cartoon provides an intuitive explanation for the observed relation for accretion aficionados.
+
+<figure>    
+<img src="/images/a19.png" alt="Model cartoon; Arcodia et al., (2019)" style="width:520px;height:460px" loading="lazy" fetchpriority="high">
+</figure>
+
+<h3>In stellar-mass X-ray binaries</h3>
+
+As second PhD project (<a class="normal" target="_blank" href="https://ui.adsabs.harvard.edu/abs/2020A%26A...638A.100A/abstract">Arcodia et al., 2020</a>) I have connected both phenomenology and physics of accretion onto stellar-mass and super-massive black holes in a mass scale-invariant fashion, in particular for the radiatively efficient and non-jetted end of accretion modes. I have compared the above-mentioned disk-corona relation between AGN and X-ray binaries (XRBs). My results indicate that a mass-scaling of properties might hold after all and they are consistent with the disk-corona systems in AGNs and XRBs exhibiting the same physical processes, albeit under different conditions for instance in terms of temperature, optical depth and/or electron energy distribution in the X-ray corona, heating-cooling balance, coronal geometry and/or black hole spin.
+
+
+<figure>    
+<img src="/images/a20.png" alt="Fig. from Arcodia et al., (2020)" style="width:620px;height:460px" loading="lazy" fetchpriority="high">
+<figcaption> This figure shows the AGN and XRBs data in comparison, in terms of the X-ray photon index distribution (top left), accretion rate distribution (bottom left), disk-corona relation on the full sample (top right) and on two sub-samples selected to match the width of the accretion rate distribution (regardless on the mean values; bottom right). </figcaption>
+</figure> <br>
+
+Identifying what is and what is not mass-invariant in accretion flows around black holes allows a correct use of XRBs, notoriously more favourable observationally (they are brighter and evolve on human timescales), to understand how their supermassive analogues grow, evolve and impact the surrounding galaxies.

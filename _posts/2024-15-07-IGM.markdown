@@ -1,0 +1,21 @@
+---
+title:  "X-ray absorption from the intergalactic medium"
+date:   15-07-2024 14:04:23
+#categories: [jekyll]
+#tags: [jekyll]
+---
+
+
+As Master's degree project (<a class="normal" target="_blank" href="https://ui.adsabs.harvard.edu/abs/2018A%26A...616A.170A/abstract">Arcodia et al., 2018</a>), I have studied the X-ray absorption contribution from the intergalactic medium (IGM) in a blazar sample. Absorption from the intergalactic medium has been invoked to solve the co-called "missins baryons" problem and finding unambiguous confirmation of this effect in X-ray data, where most of these transitions are predicted to be, would have major implications for our understanding of the Universe. However, past and current generations of X-ray detectors only allow detailed characterization of X-ray absorbers for very few bright and nearby sources. In absence of this, X-ray spectra can provide information of the cumulative absorption along the line of sight. Even after subtracting the fairly well-known contribution from our own Galaxy, a strong degeneracy would remain between absorption local to the source's host galaxy, and within the IGM. However, blazars are jetted AGN in which the line of sight is along the jet. From this viewpoint, the host galaxy is thought to be swept of most absorbers. Thus, we thought that analyzing the coarse cumulative X-ray absorption in blazars has the cleanest view of the IGM contribution.
+
+In my Master's degree work, we performed the first homogeneous study of low-z and high-z blazars and found evidence that indeed their cumulative X-ray absorption is consistent with being from the IGM. The following plot shows data together with predictions from <a class="normal" target="_blank" href="https://ui.adsabs.harvard.edu/abs/2015A%26A...575A..43C/abstract">simulations</a>, which find great agreement (in that most sources aren't below or above the simulations, but precisely aligned with the predicted IGM contribution).
+
+<figure>    
+<img src="/images/a18.png" alt="From Arcodia et al., (2018)" style="width:500px;height:360px" loading="lazy" fetchpriority="high">
+</figure>
+
+This has been confirmed in a recent <a class="normal" target="_blank" href="https://ui.adsabs.harvard.edu/abs/2024A%26A...683A.213G/abstract">work</a> I participated in, led by Efrain Gatuzz, making use of blazars detected within the eROSITA all-sky survey.
+
+These results are an excellent teaser before future-generation X-ray instruments will (hopefully) unambiguously detect individual X-ray lines from the IGM!
+
+

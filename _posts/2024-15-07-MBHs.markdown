@@ -1,0 +1,49 @@
+---
+title:  "Massive black holes"
+date:   15-07-2024 14:04:23
+#categories: [jekyll]
+#tags: [jekyll]
+---
+
+Why do we care about massive black holes (MBHs) in local low-mass galaxies? First, one day we will find the elusive population of nuclear intermediate mass black holes, their smaller cousins, in galaxies like these, perhaps a bit smaller and fainter. Plus, the low-mass end of galaxies and their nuclear black holes may also constrain the leading seeding mechanism at high-z (e.g. see <a class="normal" target="_blank" href="https://ui.adsabs.harvard.edu/abs/2020ARA%26A..58..257G/abstract">Greene et al., 2020</a>).
+
+However, compared to their more massive analogous, this regime is not well understood: we don't really know the MBH-galaxy relations well; how many galaxies have nuclear MBHs and if so, how massive and what their typical accretion mode and multi-wavelength emission is.
+
+<h3>X-ray study of MBHs selected via optical-IR photometric variability</h3>
+
+I led a study in which we used the deepest eROSITA image to get an X-ray view of many known MBH candidates in low-mass galaxies (titled <a class="normal" target="_blank" href="https://ui.adsabs.harvard.edu/abs/2024A%26A...681A..97A/abstract">"O Corona, where art thou?"</a>). As you see from the title, we didn't quite find what we were looking for.
+
+Given the many unknowns present at the low-mass MBH-galaxy regime, we thought to start simple. So we took a look at the eROSITA data of more than 200 MBH candidates from the literature selected through UV-optical-IR variability, to study their accretion mode and multi-wavelength properties. Here, I show an example of an optically-selected MBH candidate, and its associated X-ray image.
+
+<figure>    
+<img src="/images/mbh1.jpg" alt="Optical and X-ray image of MBH; Arcodia et al., (2024)" style="width:520px;height:260px" loading="lazy" fetchpriority="high">
+</figure>
+
+Since variability should be selecting MBHs which are accreting at least to some degree, their expected X-ray properties would follow predictions of either radiatively-efficient or radiatively-inefficient accreting black holes. These flows are supposed to be X-ray bright, and in principle we know how bright based on the more well-known more massive AGN.
+
+However, apart from some MBHs (green point in the figure below) respecting these predictions (red lines), the bulk of the population is undetected by eROSITA with fairly deep upper limits (grey arrows) and even their stacked emission (dark red stars) is also consistent with the stellar population of the galaxy alone (black line).
+
+<figure>    
+<img src="/images/mbh_xweak.jpg" alt="X-ray weakness of MBHs; Arcodia et al., (2024)" style="width:520px;height:360px" loading="lazy" fetchpriority="high">
+</figure>
+
+This result doesn't change when X-rays are compared to (rough) extrapolations from the optical-UV assuming radiatively-efficient accretion, meaning that these MBHs, if actually accreting, are not accreting like more massive AGN do. But if these are then MBHs accreting inefficiently they'd be expected to follow the fundamental plane of radiatively-inefficient accretion, which relates radio to X-ray luminosity and black hole mass. However, within a small sample size of radio+X-ray MBHs, they don't seem to and X-rays appear fainter here too. More radio+X-ray observations are needed to confirm this.
+
+Why did we find that X-rays are too faint? Keeping the large sample size and the selection via both optical and IR in mind, we argued that obscuration, variability or low duty cycles are unlikely to be the cause. One remaining option is that selection via photometric variability is not as pure as we think it is (big impact for LSST etc!). Simulations for purity and completeness will help, but again the sample size argues that this bias would need to be wide spread (perhaps unlikely?).
+
+What's left is either that: 1) the bulk of the population of dwarf galaxies is not able to power an X-ray corona efficiently even if the MBHs are accreting to some degree. This would make it an X-ray-only problem; 2) the accretion mode in dwarves is unusual, but throughout the whole SED and no single-band selection can be representative. In this latter case, don't be surprised if X-ray selections will lead to comparatively optically-weak and radio-weak MBHs. Synergies using multiple multi-wavelength data would then be the key to study MBHs in low-mass galaxies. 
+
+Read more in the <a class="normal" target="_blank" href="https://ui.adsabs.harvard.edu/abs/2024A%26A...681A..97A/abstract">paper</a> or in this <a class="normal" target="_blank" href="https://www.mpe.mpg.de/8021452/news20240611">press release</a>.
+
+<h3>X-ray study of galaxies with nuclear star clusters</h3>
+
+In a <a class="normal" target="_blank" href="https://ui.adsabs.harvard.edu/abs/2024A%26A...682A..36H/abstract">work</a> led by <a class="normal" target="_blank" href="https://www.nhoyer.de/">Nils Hoyer</a> (at that point a Grad. student in Heidelberg/San Sebastian), we tried to find the co-existence of MBHs (traced by X-ray emission in the eROSITA survey) and nuclear star clusters (NSC; traced by their optical-UV emission) in local low-mass galaxies. In most nucleated galaxy, we found X-ray non detections or X-ray detections consistent with the cumulative stellar population, highlighting how difficult it is to find evidence of MBHs in dwarf galaxies, even if they existed.
+
+Combining our new results with existing literature, Nils' work confirmed that at low stellar masses the MBH is undermassive compared to the NSC.
+
+<figure>    
+<img src="/images/nils.png" alt="From Hoyer et al., (2024)" style="width:420px;height:360px" loading="lazy" fetchpriority="high">
+</figure>
+
+Future sensitive and high resolution X-ray data will allow us to dig deeper into the low-mass regime, currently only grazed by existing surveys. 
+
