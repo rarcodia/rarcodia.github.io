@@ -1280,6 +1280,9 @@ hr {
 .cover-navigation {
 	margin-top: 10px; }
 
+.cover-navigation__alt {
+	margin-top: 10px; }
+
 .cover-navigation--social {
 	margin-left: 30px; }
 
@@ -1317,6 +1320,20 @@ hr {
 	color: #e25440;
 	-webkit-font-smoothing: antialiased; }
 	.btn:hover, .navigation__item a:hover {
+		color: #b9301c;
+		border-color: #b9301c; }
+
+.btn, .navigation__item__alt a {
+	padding: 10px 20px;
+	border: 1px solid #e25440;
+	border-radius: 20px;
+	font-size: .9em;
+	font-weight: bold;
+	letter-spacing: 1px;
+	text-shadow: none;
+	color: #e25440;
+	-webkit-font-smoothing: antialiased; }
+	.btn:hover, .navigation__item__alt a:hover {
 		color: #b9301c;
 		border-color: #b9301c; }
 
@@ -1373,6 +1390,13 @@ nav {
 	margin: 0;
 	list-style-type: none; }
 
+.navigation__alt {
+	display: inline-block;
+	float: left;
+	position: relative;
+	margin: 0;
+	list-style-type: none; }
+
 .navigation__item {
 	display: inline-block;
 	margin: 0 5px 0 5px;
@@ -1386,6 +1410,21 @@ nav {
 		.navigation__item a:hover {
 			color: #FFF;
 			border-color: #FFF;
+			opacity: 1; }
+
+.navigation__item__alt {
+	display: inline-block;
+	margin: 0 5px 0 5px;
+	line-height: 1em; }
+	.navigation__item__alt a {
+		display: block;
+		position: relative;
+		border-color: #e25440;
+		color: #e25440;
+		opacity: .8; }
+		.navigation__item__alt a:hover {
+			color: #e25440;
+			border-color: #e25440;
 			opacity: 1; }
 
 .navigation--social {
@@ -1654,6 +1693,24 @@ input[type="tel"] {
 				display: inline-block;
 				width: 25.8%; }
 
+	.cover-navigation__alt {
+		display: block;
+		position: relative;
+		float: left;
+		clear: left;
+		width: 100%; }
+		.cover-navigation__alt .navigation__alt {
+			display: block;
+			width: 100%; }
+			.cover-navigation__alt .navigation__alt li {
+				width: 80%;
+				margin-bottom: .4em; }
+		.cover-navigation__alt.navigation--social {
+			padding-top: 5px; }
+			.cover-navigation__alt.navigation--social .navigation__alt li {
+				display: inline-block;
+				width: 25.8%; }
+
 	.content-wrapper {
 		width: 80%;
 		max-width: none;
@@ -1664,6 +1721,9 @@ input[type="tel"] {
 		margin-left: 0; }
 
 	.navigation__item {
+		width: 100%;
+		margin: 0 0 .4em 0; }
+	.navigation__item__alt {
 		width: 100%;
 		margin: 0 0 .4em 0; } }
 @media all and (max-width: 340px) {
@@ -1678,5 +1738,9 @@ input[type="tel"] {
 		font-size: .9em; }
 
 	.btn, .navigation__item a {
+		display: block;
+		margin-bottom: .4em; }
+
+	.btn, .navigation__item__alt a {
 		display: block;
 		margin-bottom: .4em; } }

@@ -4,6 +4,57 @@ date:   14-01-2023 14:04:23
 #categories: [jekyll]
 #tags: [jekyll]
 ---
-My research focuses on studying transient and persistent accretion events onto black holes of different masses, from X-ray and optically bright active supermassive black holes to stellar-mass black holes, going through massive black holes in low-mass galaxies. Most of my efforts are dedicated to the discovery and study of new rare outliers in the family of accreting black holes in the nuclei of galaxies, the so-called quasi-periodic eruptions.
+My research focuses on studying transient and persistent accretion events onto black holes of different masses, from X-ray and optically bright active supermassive black holes to stellar-mass black holes, going through massive black holes in low-mass galaxies. Most of my efforts are dedicated to the discovery and study of new rare outliers in the family of accreting black holes in the nuclei of galaxies, the so-called <a class="normal" href="{{ site.baseurl }}/Research/QPEs">quasi-periodic eruptions</a>.
 
 You can find a list of refereed first-authored papers <a class="normal" target="_blank" href="https://ui.adsabs.harvard.edu/search/q=author%3A%22%5EArcodia%2C%20Riccardo%22%20property%3Arefereed&sort=date%20desc%2C%20bibcode%20desc&p_=0">here</a>, whereas a full list of publications <a class="normal" target="_blank" href="https://ui.adsabs.harvard.edu/search/p_=0&q=%20author%3A%22Arcodia%2C%20Riccardo%22%20%20&sort=date%20desc%2C%20bibcode%20desc">here</a>.
+
+
+<h3>Research projects</h3>
+
+For more details and references related to individual research projects, check out the following pages.
+
+<nav class="cover-navigation__alt cover-navigation--primary">
+    <ul class="navigation__alt">
+        <li class="navigation__item__alt"><a href="{{ site.baseurl }}/QPEs" title="link to {{ site.title }}'s research"
+                  class="blog-button">Quasi-periodic eruptions</a></li>
+    </ul>
+</nav>
+
+<nav class="cover-navigation__alt cover-navigation--primary">
+    <ul class="navigation__alt">
+        <li class="navigation__item__alt"><a href="{{ site.baseurl }}/MBHs" title="link to {{ site.title }}'s research"
+                  class="blog-button">Massive black holes in low-mass galaxies</a></li>
+    </ul>
+</nav>
+
+<nav class="cover-navigation__alt cover-navigation--primary">
+    <ul class="navigation__alt">
+        <li class="navigation__item__alt"><a href="{{ site.baseurl }}/Accr" title="link to {{ site.title }}'s research"
+                  class="blog-button">The disk-corona interplay in accreting black holes</a></li>
+    </ul>
+</nav>
+
+<nav class="cover-navigation__alt cover-navigation--primary">
+    <ul class="navigation__alt">
+        <li class="navigation__item__alt"><a href="{{ site.baseurl }}/IGM" title="link to {{ site.title }}'s research"
+                  class="blog-button">X-ray absorption from the intergalactic medium</a></li>
+    </ul>
+</nav>
+
+<h3>For the public</h3>
+
+Here are a few press releases related to my work.
+
+<ul>
+  <li>Press release associated with <a class="normal" target="_blank" href="https://www.nature.com/articles/s41586-021-03394-6">Arcodia et al., Nature (2021)</a>: <br> <a class="normal" target="_blank" href="https://www.mpe.mpg.de/7587547/news20210429">"eROSITA witnesses the awakening of massive black holes"</a>
+  </li>
+
+  <ul><li>Associated Media-INAF <a class="normal" target="_blank" href="https://www.media.inaf.it/2021/04/28/il-risveglio-di-due-buchi-neri-supermassicci/">press item</a> (in italian). </li></ul>
+
+  <ul><li>Associated Vice Science <a class="normal" target="_blank" href="https://www.vice.com/en/article/n7bv38/unexplained-x-ray-blasts-from-space-might-just-solve-a-cosmic-mystery-scientists-say">article</a>. </li></ul>
+
+
+  <li>Press release associated with <a class="normal" target="_blank" href="https://ui.adsabs.harvard.edu/abs/2024A%26A...681A..97A/abstract">Arcodia et al., (2024)</a>: <br> <a class="normal" target="_blank" href="https://www.mpe.mpg.de/8021452/news20240611">"Massive black holes in low-mass galaxies: what happened to the X-ray Corona?"</a> </li>
+
+  <ul><li>Associated AAS <a class="normal" target="_blank" href="https://aas.org/meetings/aas244/press-kit#Tue_pm">press event</a> </li></ul> .
+</ul>
